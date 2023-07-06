@@ -4,6 +4,6 @@ import (
   _   "github.com/julienschmidt/httprouter"
 )
 
-func main() {
+func Apologize() {
   fmt.Println("Sorry for delaying tech talk assignment completion :)")
 }
