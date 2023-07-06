@@ -1,4 +1,4 @@
-package main
+package github.com/rajpanchal00/tech_talk_raj
 
 import (
   _   "github.com/julienschmidt/httprouter"
