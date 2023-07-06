@@ -1,6 +1,8 @@
 package techtalkraj
 
 import (
+  "fmt"
+
   _   "github.com/julienschmidt/httprouter"
 )
 
